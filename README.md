@@ -10,8 +10,8 @@ Deepfakes have been prominent in the online world for many years now and there a
 The link to the paper can be found [here](https://openaccess.thecvf.com/content_CVPR_2020/html/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.html)
 
 ## Dataset used
--Real faces: CelebA dataset (10,000 images)
--Fake faces: 100K fake dataset (10,000 images)
+- Real faces: CelebA dataset (10,000 images)
+- Fake faces: 100K fake dataset (10,000 images)
 This is a subset of the dataset that was used in the paper.
 
 ## Evaluation
