@@ -12,7 +12,6 @@ The link to the paper can be found [here](https://openaccess.thecvf.com/content_
 ## Dataset used
 - Real faces: CelebA dataset (10,000 images)
 - Fake faces: 100K fake dataset (10,000 images)
-This is a subset of the dataset that was used in the paper.
 
 ## Evaluation
 Six different machine learning algorithms were used in a pipeline and their performance were measured using their and accuracy and AUC. Below are the results of the pipeline using all 10,000 images.
